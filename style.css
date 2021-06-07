@@ -80,7 +80,7 @@ html{
 
 #home::before {
   content: "";
-  background-image: url('img/homebackground.webp');
+  background-image: url('homebackground.webp');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
